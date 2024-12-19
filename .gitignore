@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Front-end build output
+front-end/build/
+
+# Back-end specific
+back-end/logs/
+back-end/temp/
+
+# Common
+.env
+.DS_Store
